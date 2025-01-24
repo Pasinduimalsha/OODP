@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/OODP.iml" filepath="$PROJECT_DIR$/.idea/OODP.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObserverPattern/ObserverPattern.iml" filepath="$PROJECT_DIR$/ObserverPattern/ObserverPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingletonPattern/SingletonPattern.iml" filepath="$PROJECT_DIR$/SingletonPattern/SingletonPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrategyDesignPattern/StrategyDesignPattern.iml" filepath="$PROJECT_DIR$/StrategyDesignPattern/StrategyDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/TemplateDesignpattern/TemplateDesignpattern.iml" filepath="$PROJECT_DIR$/TemplateDesignpattern/TemplateDesignpattern.iml" />
     </modules>
   </component>
